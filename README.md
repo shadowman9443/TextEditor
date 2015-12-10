@@ -1,0 +1,1 @@
+A text editor which is password based.A user can register,login and save his information in password protected
